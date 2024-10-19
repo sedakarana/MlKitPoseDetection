@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pose Detection</string>
+    <string name="s_welcome">Welcome to the Pose Detection app. You can continue your process by selecting an image.</string>
+    <string name="s_copy">Clear</string>
+    <string name="s_send">Send</string>
+    <string name="s_gallery">Select Gallery</string>
+    <string name="s_back">Back</string>
+    <string name="s_info">Angle</string>
+    <string name="s_info1">Draw</string>
+    <string name="s_download">Download</string>
+</resources>
